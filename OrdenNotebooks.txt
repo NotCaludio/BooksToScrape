@@ -1,0 +1,6 @@
+1. book_Ext.ipynb
+2. book_clean.ipynb
+3. Books_complete.ipynb (manejo del desbalance de categorías: creación de categorías que agrupen las categorías existentes)
+4. Books_EDA.ipynb
+5. AnalisisEstadistico.ipynb (Hipótesis y PCA)
+6. Books_ML.ipynb
